@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+:social{
+    height: 40px;
+    line-height: 37px;
+}
+
+.social i {
+    height: 40px !important;
+    line-height: 37px !important; 
+}
+
+.brand-logo{
+    padding: 8px !important;
+}
+
+.dropdown-content li>a,
+.dropdown-content li>span{
+    color:white;
+    background-color: #b71c1c;
+
+}
